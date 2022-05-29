@@ -1,0 +1,41 @@
+.headfunc {
+    color: white;
+}
+
+/* .h1hover:hover  .paragraph{
+    display: inline;
+} */
+
+.paragraph {
+    display: none;
+    color: black;
+}
+
+.pardisplay {
+    display: inline;
+    color: black;
+}
+
+.order {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.list {
+    list-style: none;
+    padding-left: 10px;
+}
+
+.numcall {
+    margin-left: 10px;
+    font-size: 40px;
+    color:darkblue;
+}
+
+.header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+}
